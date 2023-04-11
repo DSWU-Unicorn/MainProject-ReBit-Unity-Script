@@ -1,2 +1,2 @@
-# MainProject-ReBit-Data
-Main Project for 2022-23 Software Capstone Design_Data
+# MainProject-ReBit-Unity-Script
+Main Project for 2022-23 Software Capstone Design_Unity-Script
